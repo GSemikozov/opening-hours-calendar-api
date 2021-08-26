@@ -1,0 +1,11 @@
+{
+  "name": "opening-hours-calendar-api",
+  "version": "0.1.0",
+  "author": "Herman Semykozov",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "scripts": {
+    "json-server": "json-server --watch ./public/db.json"
+  }
+}
