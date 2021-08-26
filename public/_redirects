@@ -1,2 +1,0 @@
-/ https://opening-hours-calendar-api.netlify.app 301
-/:db :db.json 200

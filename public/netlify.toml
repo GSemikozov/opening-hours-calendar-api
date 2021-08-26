@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/db.json"
+  to = "/days"
+  status = 301
+  force = false
+  query = {path = ":path"}
