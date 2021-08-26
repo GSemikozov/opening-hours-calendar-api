@@ -1,8 +1,8 @@
-# [[redirects]]
-#   from = "/db.json"
-#   to = "/days"
-#   status = 301
-#   force = false
+[[redirects]]
+  from = "/db.json"
+  to = "/days"
+  status = 301
+  force = false
 
 [[redirects]]
   from = "/db.json"
