@@ -1,8 +1,8 @@
 # The following redirect is intended for use with most SPAs that handle
 # routing internally.
 [[redirects]]
-  from = "/api/db.json"
-  to = "/api/days"
+  from = "https://opening-hours-calendar-api.netlify.app/api/db.json"
+  to = "https://opening-hours-calendar-api.netlify.app/api/days"
   status = 200
 
 [[headers]]
