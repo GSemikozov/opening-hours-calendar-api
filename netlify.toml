@@ -1,10 +1,3 @@
-# The following redirect is intended for use with most SPAs that handle
-# routing internally.
-[[redirects]]
-  from = "https://opening-hours-calendar-api.netlify.app/api/db.json"
-  to = "https://opening-hours-calendar-api.netlify.app/api/days"
-  status = 200
-
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
   for = "/*"
